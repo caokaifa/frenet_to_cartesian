@@ -2,6 +2,8 @@ import numpy as np
 from math import *
 import matplotlib.pyplot as plt
 
+
+print("test")
 theta = np.linspace(0, np.pi, 10)
 x = 5.0*np.cos(theta)
 y = 5.0*np.sin(theta)
